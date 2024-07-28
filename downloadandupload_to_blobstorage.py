@@ -1,6 +1,6 @@
 from azure.storage.blob import BlobServiceClient, ContainerClient, BlobClient
 import zipfile
-connection_string = "DefaultEndpointsProtocol=https;AccountName=storageforphotoapp;AccountKey=fj2JswQZLNyqY3e6DWMIONqHaYcXyq5u4p7+h0l6EnnNWMdWGEhHm8PPLNCcfC9HCS+T7kP4V8Hi+AStyjqbQg==;EndpointSuffix=core.windows.net"
+connection_string = "connection string"
 container_name = "pcai"
 blob_name = "output.zip"
 try:
