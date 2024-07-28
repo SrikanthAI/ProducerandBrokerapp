@@ -5,8 +5,8 @@ import json
 
 def send_emails(recipient_email):
     # Email configuration
-    sender_email = "noreply@getalter.ai"
-    password = "vpnrllkhsxbjclkp"
+    sender_email = "email@gmail.com"
+    password = "password"
     smtp_server = "smtp-mail.outlook.com"
     smtp_port = 587
 
